@@ -46,34 +46,6 @@ lib/
 
 ## How to Run the Project
 1. Clone the repository
-
----
-
-## Approach
-- Used `StatefulWidget` to manage expand/collapse state.
-- Maintained an `expandedIndex` variable to ensure only one collection is expanded at a time.
-- Created a reusable `CollectionCard` widget to keep UI code clean.
-- Used a model class to define the data structure for collections.
-- Loaded local images using `Image.asset`.
-
----
-
-## How to Run the Project
-1. Clone the repository
-
----
-
-## Approach
-- Used `StatefulWidget` to manage expand/collapse state.
-- Maintained an `expandedIndex` variable to ensure only one collection is expanded at a time.
-- Created a reusable `CollectionCard` widget to keep UI code clean.
-- Used a model class to define the data structure for collections.
-- Loaded local images using `Image.asset`.
-
----
-
-## How to Run the Project
-1. Clone the repository
 2. Navigate to the project folder
 3. Install dependencies
 4. Run the app
